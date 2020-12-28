@@ -1,6 +1,7 @@
 # ALB
 Application load balancer.
 
+```
 ---
 AWSTemplateFormatVersion: '2010-09-09'
 Description: 'Creating an application load balancer'
